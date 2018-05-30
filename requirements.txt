@@ -1,0 +1,10 @@
+pandas==0.21.0
+torch==0.2.0.post3
+matplotlib==2.1.0
+tensorflow==1.7.0
+numpy==1.14.2
+mongoengine==0.15.0
+paramiko==2.4.1
+rqalpha==3.0.9
+scikit_learn==0.19.1
+tushare==1.2.0
